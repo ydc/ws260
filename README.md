@@ -1,0 +1,2 @@
+# ws260
+WS-260 is a Chinese gold standard word similarity dataset, similar to the English gold standard datasets like RG65, MA30, WordSimilarity353 and SimLex-999 and the Chinese gold standard datasets like WordSimilarity240 and WordSimilarity296. It is different from the previous ones in that it is constructed and validated using an interdisciplinary framework, which introduces method from 3 different disciplines, i.e. psychology, brain science and computational linguistics to construct and validate the dataset.
