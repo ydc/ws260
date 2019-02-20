@@ -3,6 +3,6 @@ WS-260 is a Chinese gold standard word similarity dataset, similar to the Englis
 # Citations
 When you use the dataset in your work, would you please cite the following papers:
 
-[1] Yu Wan, Yidong Chen, Xiaodong Shi, Changle Zhou. Constructing and Validating Word Similarity Datasets by Integrating Methods from Psychology, Brain Science and Computational Linguistics. Soft Computing, 2018. https://doi.org/10.1007/s00500-018-3174-1
+[1] Yu Wan, Yidong Chen, Xiaodong Shi, Changle Zhou. Constructing and Validating Word Similarity Datasets by Integrating Methods from Psychology, Brain Science and Computational Linguistics. Soft Computing, 2018, 22(21): 6967-6979.
 
 [2] Yu Wan, Yidong Chen, Xiaodong Shi, Guorong Cai, Libai Cai. A Multidisciplinary Method for Constructing and Validating Word Similarity Datasets. In: Proceedings of the 17th Annual UK Workshop on Computational Intelligence (UKCI 2017), 2017.9.6-8, pp 37-48, Cardiff, UK, 2017.
